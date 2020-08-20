@@ -79,3 +79,4 @@ start.pack(side="left")
 stop.pack(side ="left")
 reset.pack(side="left")
 root.mainloop()
+#EXECUTE
